@@ -12,7 +12,7 @@ sudo apt-get install clang libicu-dev
 # download
 mkdir ~/downloads
 cd ~/downloads
-wget "https://swift.org/builds/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-08-16-a/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-08-16-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-08-16-a-ubuntu14.04.tar.gz"
+wget https://swift.org/builds/swift-4.0-branch/ubuntu1404/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-08-16-a/swift-4.0-DEVELOPMENT-SNAPSHOT-2017-08-16-a-ubuntu14.04.tar.gz
 #
 # extract 
 mkdir ~/swift
